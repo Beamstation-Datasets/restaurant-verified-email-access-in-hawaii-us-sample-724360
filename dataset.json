@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Hawaii, US",
+  "export_job_id": "c4d1af56-20f7-463a-9818-c2c2308f4252",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 724360,
+  "location_name": "Hawaii",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-hawaii-us-sample-724360",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/724360/beamstation_724360_restaurants-us-hi_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 92,
+  "sample_sha256": "1ed24db48e4903417f203d1faa35769bba237e3aa3872ab614866e3820aacea8",
+  "sample_size_bytes": 387464,
+  "total_records": 924,
+  "updated_at": "2026-04-07T23:01:54.819117+00:00"
+}
