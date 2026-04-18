@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c4d1af56-20f7-463a-9818-c2c2308f4252",
+  "export_job_id": "dba9e24b-99f5-415f-8a40-cb383d722db4",
   "id_short": 724360,
-  "published_at": "2026-04-14T19:57:21Z",
+  "published_at": "2026-04-18T19:45:46Z",
   "repo_name": "restaurant-verified-email-access-in-hawaii-us-sample-724360",
   "sample_asset_name": "beamstation_724360_restaurants-us-hi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/724360/beamstation_724360_restaurants-us-hi_SAMPLE_DIST.csv",
-  "sample_records": 92,
-  "sample_sha256": "1ed24db48e4903417f203d1faa35769bba237e3aa3872ab614866e3820aacea8",
-  "sample_size_bytes": 387464,
-  "total_records": 924
+  "sample_records": 88,
+  "sample_sha256": "c17456fc276f39f99931ae8b743111c2cc7e061385463f0ef6540b07cf035efa",
+  "sample_size_bytes": 358238,
+  "total_records": 884
 }
