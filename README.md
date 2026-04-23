@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Hawaii, US
 
-> Free BeamStation sample export with 88 rows and masked direct-contact fields.
+> Free BeamStation sample export with 69 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `724360` |
 | Location | Hawaii |
 | Category | Restaurants |
-| Full dataset size | 884 records |
-| Free sample size | 88 records (9.95%) |
-| Last export | 2026-04-15T04:51:22.316009+00:00 |
+| Full dataset size | 693 records |
+| Free sample size | 69 records (9.96%) |
+| Last export | 2026-04-22T10:31:08.397737+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-hawaii-us-sample-724360/releases/download/sample-latest/beamstation_724360_restaurants-us-hi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
